@@ -3,3 +3,4 @@ Monday: studying math
 Tuesday: studying biology
 WEdnesday: studying chemistry
 Thursday: studying physics
+Friday: studying math
